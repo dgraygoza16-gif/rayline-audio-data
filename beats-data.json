@@ -1,0 +1,176 @@
+[
+  {
+    "id": "missed-calls",
+    "title": "Missed Calls",
+    "slug": "missed-calls",
+    "url": "https://www.raylineaudio.com/missed-calls",
+    "image": "https://assets.zyrosite.com/A3Ql6OOBVNU5jlQw/chatgpt-image-jun-22-2026-12_34_13-am-wzH3IFXWhGJ5PEw5.png",
+    "audio": "https://assets.zyrosite.com/A3Ql6OOBVNU5jlQw/missed-calls---mp3-tagged-HjJ1CxL4qRJY76AD.mp3",
+    "youtubeEmbed": "https://www.youtube.com/embed/LpILt7uqgSg?si=HefjabQAu-jfHXyy",
+    "bpm": 100,
+    "key": "C Minor",
+    "genre": "R&B",
+    "mood": [
+      "Emotional",
+      "Late Night",
+      "Heartbreak",
+      "Smooth",
+      "Dark",
+      "Atmospheric"
+    ],
+    "tags": [
+      "rnb",
+      "emotional",
+      "late night",
+      "heartbreak",
+      "smooth",
+      "dark",
+      "atmospheric"
+    ],
+    "shortDescription": "Dark, atmospheric R&B built for emotional late-night records.",
+    "description": "Missed Calls is a moody R&B instrumental built for late nights, unspoken feelings, and emotional records. Smooth Rhodes-style melodies, ambient textures, heartfelt chords, deep low end, and clean drums create a polished backdrop for stories of love, distance, heartbreak, and what could have been.",
+    "detailsCopy": "A clean late-night R&B sound with enough space for vocals, toplines, melodies, and polished artist releases.",
+    "prices": {
+      "basic": "$9.99",
+      "premium": "$19.99",
+      "exclusive": "Contact for price"
+    },
+    "licenseUrls": {
+      "basic": "https://www.raylineaudio.com/missed-calls-basic-license",
+      "premium": "https://www.raylineaudio.com/missed-calls-premium-license",
+      "exclusive": "https://www.raylineaudio.com/contact"
+    },
+    "licenseBullets": {
+      "basic": [
+        "MP3 untagged file",
+        "Non-exclusive license",
+        "Commercial use",
+        "Major streaming platforms",
+        "Up to 10,000 streams",
+        "No credit required"
+      ],
+      "premium": [
+        "MP3 + WAV files",
+        "Stem trackouts included",
+        "Non-exclusive license",
+        "Commercial use",
+        "Up to 100,000 streams",
+        "No credit required"
+      ],
+      "exclusive": [
+        "Beat removed from store after purchase",
+        "Unlimited streams",
+        "WAV + stem trackouts",
+        "Commercial use",
+        "Custom agreement",
+        "Direct support before purchase"
+      ]
+    },
+    "included": {
+      "basic": "MP3 untagged file, instant download, commercial use, and non-exclusive license.",
+      "premium": "MP3 + WAV + stem trackouts, instant download, commercial use, and non-exclusive license.",
+      "exclusive": "Exclusive rights discussion, beat removed from store after sale, WAV + stems, and direct custom agreement."
+    },
+    "theme": {
+      "primary": "#7c3cff",
+      "secondary": "#2a0b57",
+      "soft": "#efe7ff",
+      "dark": "#090713",
+      "body": "#151225",
+      "muted": "#6d647d",
+      "accent": "#b447ff",
+      "gradient": "linear-gradient(135deg, #7c3cff 0%, #b447ff 100%)",
+      "playerGradient": "linear-gradient(135deg, #2a0b57 0%, #16062f 100%)",
+      "coverGlow": "rgba(124, 60, 255, 0.16)",
+      "shadow": "rgba(33, 13, 75, 0.14)"
+    },
+    "dateAdded": "2026-06-22",
+    "isFeatured": true,
+    "isAvailable": true
+  },
+  {
+    "id": "a-good-thing",
+    "title": "A Good Thing",
+    "slug": "a-good-thing",
+    "url": "https://www.raylineaudio.com/a-good-thing",
+    "image": "https://assets.zyrosite.com/A3Ql6OOBVNU5jlQw/a-good-thing---1-to-1-cover-LMEKIvs98h45zQ4K.png",
+    "audio": "https://assets.zyrosite.com/A3Ql6OOBVNU5jlQw/a-good-thing---mp3-tagged-vCnG3M6RbQyRTXF0.mp3",
+    "youtubeEmbed": "",
+    "bpm": 80,
+    "key": "A Minor",
+    "genre": "R&B",
+    "mood": [
+      "Emotional",
+      "Smooth",
+      "Romantic",
+      "Warm"
+    ],
+    "tags": [
+      "rnb",
+      "emotional",
+      "smooth",
+      "romantic",
+      "warm"
+    ],
+    "shortDescription": "Smooth emotional R&B with warm melodies and romantic energy.",
+    "description": "A Good Thing is a smooth emotional R&B beat built around warm melodies, romantic movement, and space for heartfelt vocals. Made for love songs, reflective records, and polished artist releases.",
+    "detailsCopy": "A smooth R&B sound made for heartfelt vocals, warm melodies, romantic themes, and clean melodic records.",
+    "prices": {
+      "basic": "$9.99",
+      "premium": "$19.99",
+      "exclusive": "Contact for price"
+    },
+    "licenseUrls": {
+      "basic": "https://www.raylineaudio.com/a-good-thing-basic-license",
+      "premium": "https://www.raylineaudio.com/a-good-thing-premium-license",
+      "exclusive": "https://www.raylineaudio.com/contact"
+    },
+    "licenseBullets": {
+      "basic": [
+        "MP3 untagged file",
+        "Non-exclusive license",
+        "Commercial use",
+        "Major streaming platforms",
+        "Up to 10,000 streams",
+        "No credit required"
+      ],
+      "premium": [
+        "MP3 + WAV files",
+        "Stem trackouts included",
+        "Non-exclusive license",
+        "Commercial use",
+        "Up to 100,000 streams",
+        "No credit required"
+      ],
+      "exclusive": [
+        "Beat removed from store after purchase",
+        "Unlimited streams",
+        "WAV + stem trackouts",
+        "Commercial use",
+        "Custom agreement",
+        "Direct support before purchase"
+      ]
+    },
+    "included": {
+      "basic": "MP3 untagged file, instant download, commercial use, and non-exclusive license.",
+      "premium": "MP3 + WAV + stem trackouts, instant download, commercial use, and non-exclusive license.",
+      "exclusive": "Exclusive rights discussion, beat removed from store after sale, WAV + stems, and direct custom agreement."
+    },
+    "theme": {
+      "primary": "#b11226",
+      "secondary": "#3b0710",
+      "soft": "#ffe8ec",
+      "dark": "#140407",
+      "body": "#1f070b",
+      "muted": "#7b5d62",
+      "accent": "#e0465c",
+      "gradient": "linear-gradient(135deg, #b11226 0%, #e0465c 100%)",
+      "playerGradient": "linear-gradient(135deg, #3b0710 0%, #140407 100%)",
+      "coverGlow": "rgba(177, 18, 38, 0.18)",
+      "shadow": "rgba(80, 7, 18, 0.16)"
+    },
+    "dateAdded": "2026-07-02",
+    "isFeatured": false,
+    "isAvailable": true
+  }
+]
