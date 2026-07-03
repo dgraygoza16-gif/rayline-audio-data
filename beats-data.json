@@ -172,5 +172,95 @@
     "dateAdded": "2026-07-02",
     "isFeatured": false,
     "isAvailable": true
-  }
+  }.
+  {
+  {
+  "id": "contigo",
+  "title": "Contigo",
+  "slug": "contigo",
+  "url": "https://www.raylineaudio.com/contigo",
+  "image": "https://assets.zyrosite.com/A3Ql6OOBVNU5jlQw/contigo-cover-dNyHk9efnoORjVtO.png",
+  "audio": "https://assets.zyrosite.com/A3Ql6OOBVNU5jlQw/s-contigo-ilmqsfdacEiLnyAU.mp3",
+  "youtubeEmbed": "",
+  "bpm": 92,
+  "key": "D Minor",
+  "genre": "Reggaetón",
+  "mood": [
+    "Romantic",
+    "Latin",
+    "Smooth",
+    "Night Drive",
+    "Emotional",
+    "Danceable"
+  ],
+  "tags": [
+    "reggaeton",
+    "latin",
+    "romantic",
+    "smooth",
+    "night drive",
+    "emotional",
+    "danceable"
+  ],
+  "shortDescription": "Romantic reggaetón with smooth Latin melodies and late-night energy.",
+  "description": "Contigo is a romantic reggaetón beat built around smooth Latin melodies, warm textures, bouncy drums, and a late-night groove. Designed for artists creating catchy Spanish hooks, emotional verses, and polished urban Latin records with a clean commercial feel.",
+  "detailsCopy": "A smooth romantic reggaetón sound with space for vocals, catchy hooks, melodic verses, and polished Latin artist releases.",
+  "prices": {
+    "basic": "$9.99",
+    "premium": "$19.99",
+    "exclusive": "Contact for price"
+  },
+  "licenseUrls": {
+    "basic": "https://www.raylineaudio.com/contigo-basic-license",
+    "premium": "https://www.raylineaudio.com/contigo-premium-license",
+    "exclusive": "https://www.raylineaudio.com/contact"
+  },
+  "licenseBullets": {
+    "basic": [
+      "MP3 untagged file",
+      "Non-exclusive license",
+      "Commercial use",
+      "Major streaming platforms",
+      "Up to 10,000 streams",
+      "No credit required"
+    ],
+    "premium": [
+      "MP3 + WAV files",
+      "Stem trackouts included",
+      "Non-exclusive license",
+      "Commercial use",
+      "Up to 100,000 streams",
+      "No credit required"
+    ],
+    "exclusive": [
+      "Beat removed from store after purchase",
+      "Unlimited streams",
+      "WAV + stem trackouts",
+      "Commercial use",
+      "Custom agreement",
+      "Direct support before purchase"
+    ]
+  },
+  "included": {
+    "basic": "MP3 untagged file, instant download, commercial use, and non-exclusive license.",
+    "premium": "MP3 + WAV + stem trackouts, instant download, commercial use, and non-exclusive license.",
+    "exclusive": "Exclusive rights discussion, beat removed from store after sale, WAV + stems, and direct custom agreement."
+  },
+  "theme": {
+    "primary": "#ff4f8b",
+    "secondary": "#3a0630",
+    "soft": "#ffe7f0",
+    "dark": "#12020d",
+    "body": "#1f0616",
+    "muted": "#7d6070",
+    "accent": "#ff9a3d",
+    "gradient": "linear-gradient(135deg, #ff4f8b 0%, #ff9a3d 100%)",
+    "playerGradient": "linear-gradient(135deg, #3a0630 0%, #12020d 100%)",
+    "coverGlow": "rgba(255, 79, 139, 0.18)",
+    "shadow": "rgba(110, 10, 60, 0.16)"
+  },
+  "dateAdded": "2026-07-03",
+  "isFeatured": false,
+  "isAvailable": true
+}
 ]
