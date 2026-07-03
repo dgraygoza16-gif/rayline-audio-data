@@ -174,7 +174,6 @@
     "isAvailable": true
   },
   {
-  {
   "id": "contigo",
   "title": "Contigo",
   "slug": "contigo",
@@ -262,5 +261,5 @@
   "dateAdded": "2026-07-03",
   "isFeatured": false,
   "isAvailable": true
-}
+  }
 ]
