@@ -1,0 +1,46 @@
+{
+  "brand": {
+    "name": "Rayline Audio",
+    "fontPrimary": "Inter, Arial, sans-serif",
+    "fontDisplay": "Inter, Arial, sans-serif"
+  },
+  "colors": {
+    "primary": "#7c3cff",
+    "primaryDark": "#2a0b57",
+    "primarySoft": "#efe7ff",
+    "accent": "#b447ff",
+    "black": "#090713",
+    "body": "#151225",
+    "muted": "#6d647d",
+    "white": "#ffffff",
+    "pageBg": "linear-gradient(180deg, #ffffff 0%, #fbf9ff 48%, #ffffff 100%)"
+  },
+  "borders": {
+    "default": "rgba(124, 60, 255, 0.18)",
+    "strong": "rgba(124, 60, 255, 0.34)"
+  },
+  "shadows": {
+    "card": "0 22px 60px rgba(33, 13, 75, 0.14)",
+    "button": "0 18px 38px rgba(124, 60, 255, 0.30)",
+    "soft": "0 14px 34px rgba(33, 13, 75, 0.10)"
+  },
+  "radius": {
+    "small": "14px",
+    "medium": "18px",
+    "large": "24px",
+    "xl": "28px",
+    "pill": "999px"
+  },
+  "buttons": {
+    "primaryGradient": "linear-gradient(135deg, #7c3cff 0%, #2a0b57 100%)",
+    "secondaryBg": "#ffffff",
+    "minHeight": "52px",
+    "fontWeight": "900"
+  },
+  "cards": {
+    "background": "#ffffff",
+    "border": "1px solid rgba(124, 60, 255, 0.18)",
+    "shadow": "0 22px 60px rgba(33, 13, 75, 0.14)",
+    "radius": "24px"
+  }
+}
