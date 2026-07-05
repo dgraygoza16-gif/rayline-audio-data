@@ -1,46 +1,46 @@
 {
   "brand": {
     "name": "Rayline Audio",
-    "fontPrimary": "Inter, Arial, sans-serif",
-    "fontDisplay": "Inter, Arial, sans-serif"
+    "fontPrimary": "Comic Sans MS, Comic Neue, Baloo 2, Inter, Arial, sans-serif",
+    "fontDisplay": "Baloo 2, Comic Sans MS, Comic Neue, Inter, Arial, sans-serif"
   },
   "colors": {
-    "primary": "#7c3cff",
-    "primaryDark": "#2a0b57",
-    "primarySoft": "#efe7ff",
-    "accent": "#b447ff",
-    "black": "#090713",
-    "body": "#151225",
-    "muted": "#6d647d",
+    "primary": "#ffcc00",
+    "primaryDark": "#ff8a00",
+    "primarySoft": "#fff3b0",
+    "accent": "#ff4fd8",
+    "black": "#1f1400",
+    "body": "#332200",
+    "muted": "#8a6a00",
     "white": "#ffffff",
-    "pageBg": "linear-gradient(180deg, #ffffff 0%, #fbf9ff 48%, #ffffff 100%)"
+    "pageBg": "linear-gradient(180deg, #fffef2 0%, #fff4b8 48%, #ffffff 100%)"
   },
   "borders": {
-    "default": "rgba(124, 60, 255, 0.18)",
-    "strong": "rgba(124, 60, 255, 0.34)"
+    "default": "rgba(255, 178, 0, 0.32)",
+    "strong": "rgba(255, 138, 0, 0.55)"
   },
   "shadows": {
-    "card": "0 22px 60px rgba(33, 13, 75, 0.14)",
-    "button": "0 18px 38px rgba(124, 60, 255, 0.30)",
-    "soft": "0 14px 34px rgba(33, 13, 75, 0.10)"
+    "card": "0 22px 60px rgba(255, 174, 0, 0.22)",
+    "button": "0 18px 38px rgba(255, 174, 0, 0.35)",
+    "soft": "0 14px 34px rgba(255, 174, 0, 0.18)"
   },
   "radius": {
-    "small": "14px",
-    "medium": "18px",
-    "large": "24px",
-    "xl": "28px",
+    "small": "18px",
+    "medium": "22px",
+    "large": "28px",
+    "xl": "34px",
     "pill": "999px"
   },
   "buttons": {
-    "primaryGradient": "linear-gradient(135deg, #7c3cff 0%, #2a0b57 100%)",
+    "primaryGradient": "linear-gradient(135deg, #ffcc00 0%, #ff8a00 100%)",
     "secondaryBg": "#ffffff",
-    "minHeight": "52px",
-    "fontWeight": "900"
+    "minHeight": "54px",
+    "fontWeight": "950"
   },
   "cards": {
     "background": "#ffffff",
-    "border": "1px solid rgba(124, 60, 255, 0.18)",
-    "shadow": "0 22px 60px rgba(33, 13, 75, 0.14)",
-    "radius": "24px"
+    "border": "1px solid rgba(255, 178, 0, 0.32)",
+    "shadow": "0 22px 60px rgba(255, 174, 0, 0.22)",
+    "radius": "28px"
   }
 }
