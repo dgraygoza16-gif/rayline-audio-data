@@ -1,0 +1,49 @@
+[
+  {
+    "id": "memories",
+    "title": "Memories",
+    "slug": "memories",
+    "url": "https://www.raylineaudio.com/memories",
+    "image": "PASTE_COVER_IMAGE_URL_HERE",
+    "audioPreview": "PASTE_AUDIO_PREVIEW_URL_HERE",
+    "price": "$19.99",
+    "genre": "R&B",
+    "subGenre": "Emotional R&B / Trap Soul",
+    "mood": "Nostalgic, Warm, Late Night, Emotional",
+    "bpmRange": "80–110 BPM",
+    "keyInfo": "Multiple keys included",
+    "totalLoops": 10,
+    "totalFiles": 40,
+    "fileTypes": ["WAV"],
+    "included": [
+      "Full melody loops",
+      "Rhodes loops",
+      "Pad loops",
+      "Pluck loops",
+      "Bass layers",
+      "Separated stems for each loop",
+      "Royalty-free license PDF",
+      "ReadMe file"
+    ],
+    "description": "Memories is an emotional R&B sample pack built around warm Rhodes chords, nostalgic melodies, soft pads, plucks, and bass layers. Designed for producers making late-night R&B, trap soul, melodic hip-hop, and emotional records.",
+    "shortDescription": "Emotional R&B loops with Rhodes, pads, plucks, bass layers, and full melodic ideas.",
+    "detailsCopy": "Built for producers who want finished melodic starters without relying on drum loops or one-shots. Each idea includes a full loop plus separated musical layers so you can arrange, chop, pitch, or rebuild the idea your own way.",
+    "tags": [
+      "rnb",
+      "trap soul",
+      "emotional",
+      "melody loops",
+      "rhodes",
+      "nostalgic",
+      "late night",
+      "sample pack"
+    ],
+    "licenseType": "Royalty-Free Sample Pack License",
+    "licenseUrl": "PASTE_LICENSE_OR_CHECKOUT_URL_HERE",
+    "downloadUrl": "PASTE_PURCHASE_OR_DOWNLOAD_URL_HERE",
+    "previewUrl": "PASTE_SAMPLE_PACK_PAGE_URL_HERE",
+    "dateAdded": "2026-07-05",
+    "isFeatured": true,
+    "isAvailable": true
+  }
+]
