@@ -1,77 +1,77 @@
 {
   "brand": {
     "name": "Rayline Audio",
-    "googleFontUrl": "https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;700;800&display=swap",
-    "fontPrimary": "'Baloo 2', 'Comic Sans MS', 'Comic Neue', Inter, Arial, sans-serif",
-    "fontDisplay": "'Baloo 2', 'Comic Sans MS', 'Comic Neue', Inter, Arial, sans-serif"
+    "googleFontUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900;950&display=swap",
+    "fontPrimary": "Inter, Arial, sans-serif",
+    "fontDisplay": "Inter, Arial, sans-serif"
   },
   "colors": {
-    "primary": "#ffcc00",
-    "primaryDark": "#ff8a00",
-    "primarySoft": "#fff3b0",
-    "accent": "#ff4fd8",
-    "glow": "rgba(255, 174, 0, 0.36)",
-    "black": "#1f1400",
-    "body": "#332200",
-    "muted": "#8a6a00",
+    "primary": "#7c3cff",
+    "primaryDark": "#2a0b57",
+    "primarySoft": "#efe7ff",
+    "accent": "#b66cff",
+    "glow": "rgba(124, 60, 255, 0.35)",
+    "black": "#090713",
+    "body": "#151225",
+    "muted": "#6d647d",
     "white": "#ffffff",
-    "pageSoft": "#fff8d6",
-    "pageBg": "linear-gradient(180deg, #fffef2 0%, #fff4b8 48%, #ffffff 100%)",
-    "darkBg": "#fff0a3",
-    "darkBgSoft": "#ffd84d",
-    "darkText": "#1f1400",
-    "darkMuted": "#6f4c00"
+    "pageSoft": "#fbf9ff",
+    "pageBg": "linear-gradient(180deg, #ffffff 0%, #fbf9ff 48%, #ffffff 100%)",
+    "darkBg": "#0b0716",
+    "darkBgSoft": "#150929",
+    "darkText": "#ffffff",
+    "darkMuted": "#cfc3e9"
   },
   "borders": {
-    "default": "rgba(255, 178, 0, 0.32)",
-    "strong": "rgba(255, 138, 0, 0.60)"
+    "default": "rgba(124, 60, 255, 0.18)",
+    "strong": "rgba(124, 60, 255, 0.34)"
   },
   "shadows": {
-    "card": "0 22px 60px rgba(255, 174, 0, 0.22)",
-    "button": "0 18px 38px rgba(255, 174, 0, 0.35)",
-    "soft": "0 14px 34px rgba(255, 174, 0, 0.18)",
-    "dark": "0 34px 90px rgba(255, 174, 0, 0.28)"
+    "card": "0 22px 60px rgba(33, 13, 75, 0.14)",
+    "button": "0 18px 38px rgba(124, 60, 255, 0.30)",
+    "soft": "0 14px 34px rgba(33, 13, 75, 0.10)",
+    "dark": "0 34px 90px rgba(42, 11, 87, 0.32)"
   },
   "radius": {
-    "small": "18px",
-    "medium": "22px",
-    "large": "28px",
-    "xl": "34px",
+    "small": "14px",
+    "medium": "18px",
+    "large": "24px",
+    "xl": "28px",
     "pill": "999px"
   },
   "buttons": {
-    "primaryGradient": "linear-gradient(135deg, #ffcc00 0%, #ff8a00 100%)",
+    "primaryGradient": "linear-gradient(135deg, #7c3cff 0%, #2a0b57 100%)",
     "secondaryBg": "#ffffff",
-    "minHeight": "54px",
-    "fontWeight": "950"
+    "minHeight": "52px",
+    "fontWeight": "900"
   },
   "cards": {
     "background": "#ffffff",
-    "border": "1px solid rgba(255, 178, 0, 0.32)",
-    "shadow": "0 22px 60px rgba(255, 174, 0, 0.22)",
-    "radius": "28px"
+    "border": "1px solid rgba(124, 60, 255, 0.18)",
+    "shadow": "0 22px 60px rgba(33, 13, 75, 0.14)",
+    "radius": "24px"
   },
   "surfaces": {
     "background": "#ffffff",
-    "soft": "#fff8d6",
-    "dark": "#ffd84d",
-    "sectionSoftBg": "radial-gradient(circle at 50% 15%, rgba(255, 204, 0, 0.24), transparent 35%), linear-gradient(180deg, #ffffff, #fff8d6)",
-    "darkSectionBg": "radial-gradient(circle at 18% 18%, rgba(255, 79, 216, 0.25), transparent 34%), radial-gradient(circle at 92% 18%, rgba(255, 204, 0, 0.42), transparent 34%), linear-gradient(145deg, #fff0a3, #ffd84d)",
-    "ctaBg": "radial-gradient(circle at 80% 30%, rgba(255, 79, 216, 0.30), transparent 32%), linear-gradient(135deg, #fff0a3, #ffcc00)",
-    "darkCardBg": "rgba(255, 255, 255, 0.48)",
-    "darkCardBorder": "1px solid rgba(255, 138, 0, 0.36)",
-    "darkPillBg": "rgba(255, 255, 255, 0.55)"
+    "soft": "#fbf9ff",
+    "dark": "#0b0716",
+    "sectionSoftBg": "radial-gradient(circle at 50% 15%, rgba(124, 60, 255, 0.18), transparent 35%), linear-gradient(180deg, #ffffff, #fbf9ff)",
+    "darkSectionBg": "radial-gradient(circle at 20% 25%, rgba(124, 60, 255, 0.28), transparent 35%), radial-gradient(circle at 90% 15%, rgba(184, 111, 255, 0.24), transparent 32%), linear-gradient(145deg, #171123, #080611)",
+    "ctaBg": "radial-gradient(circle at 80% 30%, rgba(184, 111, 255, 0.55), transparent 32%), linear-gradient(135deg, #130920, #32106d)",
+    "darkCardBg": "rgba(255, 255, 255, 0.08)",
+    "darkCardBorder": "1px solid rgba(255, 255, 255, 0.13)",
+    "darkPillBg": "rgba(255, 255, 255, 0.09)"
   },
   "effects": {
-    "primaryWash": "rgba(255, 204, 0, 0.30)",
-    "primaryWashStrong": "rgba(255, 204, 0, 0.45)",
-    "accentWash": "rgba(255, 79, 216, 0.25)",
-    "glowSoft": "rgba(255, 204, 0, 0.22)",
-    "glowMedium": "rgba(255, 174, 0, 0.35)",
-    "darkGlow": "rgba(255, 174, 0, 0.28)",
-    "lightOverlay": "rgba(255, 255, 255, 0.48)",
-    "lightOverlayStrong": "rgba(255, 255, 255, 0.62)",
-    "lightBorder": "rgba(255, 138, 0, 0.28)",
-    "lightBorderStrong": "rgba(255, 138, 0, 0.42)"
+    "primaryWash": "rgba(124, 60, 255, 0.12)",
+    "primaryWashStrong": "rgba(124, 60, 255, 0.22)",
+    "accentWash": "rgba(184, 111, 255, 0.24)",
+    "glowSoft": "rgba(124, 60, 255, 0.14)",
+    "glowMedium": "rgba(124, 60, 255, 0.35)",
+    "darkGlow": "rgba(42, 11, 87, 0.32)",
+    "lightOverlay": "rgba(255, 255, 255, 0.08)",
+    "lightOverlayStrong": "rgba(255, 255, 255, 0.13)",
+    "lightBorder": "rgba(255, 255, 255, 0.14)",
+    "lightBorderStrong": "rgba(255, 255, 255, 0.22)"
   }
 }
